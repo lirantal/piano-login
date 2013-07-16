@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="author" content="Liran Tal">
+  <title>System Login</title>
+
+  <!-- jQuery base and UI - JS and CSS includes -->
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.0/themes/base/jquery-ui.css" />
+  <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+
+  <!-- App specific CSS -->
+  <link rel="stylesheet" href="login.css" />
+  <link rel="stylesheet" href="piano.css" />
+  <!-- App specific JS -->
+  <script src="piano.js"></script>
+  <script src="login.js"></script>
+
+</head>
+<body>
+
+<div class="content">
+
+  <div class="form">
+    <form autocomplete="off">
+
+        <label> Username </label>
+        <input type="text" name="ads" value="" class="form_input" />
+
+        <label> Password </label>
+        <input type="password" name="pass" value="" id="target_piano_compose" class="form_input" autocomplete="off'" />
+
+        <div class="piano_assitance">
+          <span> use piano password assistance technology </span>
+        </div>
+
+        <button class="button" type="submit"> Login </button>
+    </form>
+  </div>
+
+  <div class="footer">
+    <span>
+      <p> Copyright (C) 2013 Liran Tal </p>
+      <p> graphics credited to <a href="http://openiconlibrary.sourceforge.net">Open Icon Library</a></p>
+    </span>
+  </div>
+
+</div>
+
+
+<!-- In the #target div we will load up the piano.html layout as a jQuery UI dialog -->
+<div id="target" style="display:none"></div>
+
+
+</body>
+</html>
