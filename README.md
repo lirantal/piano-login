@@ -12,20 +12,20 @@ piano player widget onto the screen where they can play a tune which is
 memorable and personal to them. The piano key stores are then translated into a
 password which is put in the password field.
 
-  ADVANTAGES
-  ===========
-    1. Easying the user to choose and compose his own unique password based on a
-       piano tune
-    2. Based on HTML5 and JavaScript. Absolutely no other widget is required.
-    3. Disrupting key-loggers which easedrop on keyboard keystores because the
-       piano player widget is using mouse clicks
+ADVANTAGES
+----------
+1. Easying the user to choose and compose his own unique password based on a
+   piano tune
+2. Based on HTML5 and JavaScript. Absolutely no other widget is required.
+3. Disrupting key-loggers which easedrop on keyboard keystores because the
+   piano player widget is using mouse clicks
 
-  USE CASES
-  ===========
-    1. User can make use of the piano player widget to set his own unique tune,
-       instead of a 'Security Question'.
-    2. User can make use of the piano player widget to add another authenticity
-       and validation factor for web applications.
+USE CASES
+----------
+1. User can make use of the piano player widget to set his own unique tune,
+   instead of a 'Security Question'.
+2. User can make use of the piano player widget to add another authenticity
+   and validation factor for web applications.
 
 
 
