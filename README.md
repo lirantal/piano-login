@@ -12,6 +12,8 @@ piano player widget onto the screen where they can play a tune which is
 memorable and personal to them. The piano key stores are then translated into a
 password which is put in the password field.
 
+![Screenshot1](https://raw.github.com/lirantal/piano-login/master/img/screenshot1.png)
+
 ADVANTAGES
 ----------
 1. Easying the user to choose and compose his own unique password based on a
@@ -27,6 +29,8 @@ USE CASES
 2. User can make use of the piano player widget to add another authenticity
    and validation factor for web applications.
 
+
+![Screenshot2](https://raw.github.com/lirantal/piano-login/master/img/screenshot2.png)
 
 
 ASSETS
