@@ -70,3 +70,7 @@ AUTHOR
 ===========
   Copyright (C) 2013 Liran Tal <liran.tal@gmail.com>
 
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
